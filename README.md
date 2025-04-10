@@ -5,9 +5,9 @@
 
 - 👯 Desarrollo en **Springboot, ReactJS, PhaserJS, Laravel...**
 
-- o en [https://api.whatsapp.com/send/?phone=34647592510&text&type=phone_number&app_absent=0](https://api.whatsapp.com/send/?phone=34647592510&text&type=phone_number&app_absent=0)
+- o en [whatsapp](https://api.whatsapp.com/send/?phone=34647592510&text&type=phone_number&app_absent=0)
 
-- 👨‍💻 Puedes ver mi porfolio en [https://pablomonteserin.com/medallitas](https://pablomonteserin.com/medallitas)
+- 👨‍💻 Puedes ver [mi porfolio](https://pablomonteserin.com/medallitas)
 
 - 📫 Contáctame en **pablomonteserin@pablomonteserin.com**
 
